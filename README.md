@@ -1,2 +1,2 @@
 # ensemble-rf-svm
-Ensemble methods, Random Forest and Support Vector Machine for hand written digit classification.
+This is for CS 4210 where Ensemble methods are used alongside a decision tree to create more accurate predictions, we also use Random Forest classifier which uses boosting and lastly a Support Vector Machine to create the best model appropriate to classify numbers. The goal is to try and classify correctly hand written numbers. We go from hand written number compress it to a 64x64 pixels with 0 and 1 bits, to then compressing it to an 8X8 hexadecimal number for faster processing. This dataset was taken from `E. Alpaydin, C. Kaynak for Optical Recognition of Handwritten Digits`
